@@ -1,0 +1,31 @@
+1- POD in Lab 4
+3- PODNN in Lab 9
+4- PINN in Lab 8
+
+Extra
+-Stokes in lab 10
+-NS in lab 13
+
+N.B.
+    Forcing term is the same as the one in lab 10
+    Choose a casual f and u to verify the code
+        Once verified, compare it with the given f
+    HF is slow -> measuring time for one iteration is ok
+    LF is really fast -> mean over different simulations to get a feasible time
+
+    In the report describe the problem and the results, divided by points
+
+
+Burocracy
+    Send by email
+        Report of max 10 pages in .pdf 
+        At last 2 days before the chosen exam date
+    Prepare a presentation for the exam
+        Maximum 10 slides
+        1 person -> 6 minutes
+        2 people -> 10 minutes
+        3 people -> 15 minutes
+    
+        Then theoretical questions individually
+    Exam calls
+        Send an email with the chosen data
